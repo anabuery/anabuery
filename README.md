@@ -1,4 +1,4 @@
-<h1 align="center">Oii! Eu sou a Ana Helena 👋</h1>
+<h1 align="center">Olá! Eu sou a Ana Helena 👋</h1>
 
 <p align="center">
 <img src="https://i.pinimg.com/564x/fb/6c/f4/fb6cf4a29a06cfb4a3e2eead0dbb3711.jpg" width="200px" />
