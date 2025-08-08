@@ -4,7 +4,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Estudante de engenharia de software!
+- 🎓 Estudante de engenharia de software
 - 💻 Gosto de desenvolver com **JavaScript**, **Python**, **HTML**, **CSS**, **JAVA** e progredindo para área **cybersegurança**.
 - 📚 Sempre aprendendo algo novo no mundo da programação.
 - 🤍 Construindo e aprendendo com novos projetos.
