@@ -1,14 +1,15 @@
-<h1 align="center">Olá! Eu sou a Ana Helena 👋</h1>
+<h1 align="center">Oii! Eu sou a Ana Helena 👋</h1>
 
+<p align="center">
 
+</p>
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Estudante de engenharia de software
-- 💻 Gosto de desenvolver com **JavaScript**, **Python**, **HTML**, **CSS**, **JAVA** e progredindo para área **cybersegurança**.
-- 📚 Sempre aprendendo algo novo no mundo da programação.
-- 🤍 Construindo e aprendendo com novos projetos.
-
+- 🎓 Estudante apaixonada por tecnologia!
+- 💻 Gosto de desenvolver com **JavaScript**, **HTML**, **CSS**, **Java**, **SQL** e progredindo para área de cybersegurança.
+- 📚 Sempre aprendendo e construindo novos projetos.
+ 
 ---
 
 ### 📊 GitHub Stats
@@ -20,13 +21,14 @@
 
 ---
 
-### 🚀 Tecnologias que normalmente uso.
+### 🚀 Tecnologias que uso
 
 <div style="display: inline_block">
 <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="Ana-SQL" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/sql.png">
 </div>
 
 ---
@@ -34,9 +36,3 @@
 ### 💬 Contato
 
 (Em breve adicionarei formas de contato por aqui! 😊)
-
----
-
-### 💡 Fun Fact
-> Sempre codando com um fone de lo-fi no ouvido 🎧
-> Aprendendo mais sobre programação e cybersegurança!
