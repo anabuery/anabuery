@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Estudante apaixonada por tecnologia!
+- 🎓 Estudante de engenharia de software
 - 💻 Gosto de desenvolver com **JavaScript**, **HTML**, **CSS**, **Java**, **SQL** e progredindo para área de **cybersegurança**.
 - 📚 Sempre aprendendo e construindo novos projetos.
  
